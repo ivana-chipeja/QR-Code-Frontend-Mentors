@@ -32,7 +32,7 @@ This is a rather simple project for people who are learning HTML and CSS. The id
 
 ### Screenshot
 
-![](/Project/images/Screenshot.png)
+![](images/Screenshot.png)
 
 ### Links
 
