@@ -37,7 +37,7 @@ This is a rather simple project for people who are learning HTML and CSS. The id
 ### Links
 
 - Solution URL: [My code on GitHub](https://github.com/ivana-chipeja/QR-Code-Frontend-Mentors.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://ivana-chipeja.github.io/QR-Code-Frontend-Mentors/)
 
 ## My process
 
