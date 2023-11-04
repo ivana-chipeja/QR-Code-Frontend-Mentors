@@ -1,0 +1,46 @@
+body{
+    background: hsl(212, 45%, 89%);
+    font-size: 15px;
+}
+
+.container{
+
+    background: hsl(0, 0%, 100%);
+    margin: 0 auto;
+    width: 300px;
+    border: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 15px;
+    border-radius: 5%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+img{
+    width: 300px;
+    border-radius: 5%;
+}
+
+p{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+    padding: 10px 0px;
+    margin-top: 10px;
+}
+
+.improve{
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.scan{
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+
+footer{
+    text-align: center;
+}
